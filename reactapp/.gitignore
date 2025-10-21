@@ -31,3 +31,7 @@ yarn.lock
 pnpm-lock.yaml
 jsconfig.json
 node_modules
+public/build
+.next
+out/
+build/
